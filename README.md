@@ -1,0 +1,1 @@
+This game runs from the index.html file on a new browser window.  Very rudimentary game physics and game play.<img width="1275" height="718" alt="image" src="https://github.com/user-attachments/assets/3ba4fa1b-2c2f-4dd6-ae61-b66f23523a92" />
